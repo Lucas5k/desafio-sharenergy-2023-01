@@ -46,8 +46,6 @@ use a vontade
 
 <a href="https://documenter.getpostman.com/view/25184771/2s8Z72VrtG">Clique aqui</a>
 
-## :soon: Implementação futura
-<ol>Nos Próximos dias implementar os testes, tanto do crawler quanto do frontend;</ol>
-<ol>Implementar o mobile first, para celulares;</ol>
+## Video sobre o desenvolvimento:
 
-## :handshake: Projeto feito individualmente!
+<a href="https://www.youtube.com/watch?v=vm0NXOND7to">Clique aqui</a>
