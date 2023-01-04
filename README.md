@@ -26,6 +26,9 @@ npm install
 - Inicialize o projeto no front
 npm start
 
+- Rode o seguinte comando.
+npm run proxy
+
 - Rodar testes em front
 npm test
 ou
